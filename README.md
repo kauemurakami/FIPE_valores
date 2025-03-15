@@ -1,6 +1,11 @@
 # fipe_valor
 
-A new Flutter project.
+Aplicativo que busca informações sobre o veículo na tabela FIPE.<br/>
+Usando a API do [BrasilAPI](https://brasilapi.com.br/) com o endpoint `api/fipe/preco/v1/$codigofipe`.<br/>
+A mesma é disponível gratuitamente, mas é **muito importante ler os** [Termos de uso da api](https://brasilapi.com.br/#termos-de-uso)<br/>
+
+<img src="https://github.com/kauemurakami/FIPE_valores/raw/main/prints/print1.jpg" width="311" height="631">
+
 
 ## Getting Started
 
